@@ -15,6 +15,7 @@ class Cat(Animal):
 def run_twice(animal):
     animal.run()
     animal.run()
+    
 dog = Dog()
 dog.run()
 cat = Cat()
